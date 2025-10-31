@@ -320,7 +320,7 @@ export default {
         {
           id: 15,
           texto:
-            'El sistema pull sostenible responde a la demanda real, evitando sobreproducción.',
+            'El sistema <em>pull</em> sostenible responde a la demanda real, evitando sobreproducción.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [

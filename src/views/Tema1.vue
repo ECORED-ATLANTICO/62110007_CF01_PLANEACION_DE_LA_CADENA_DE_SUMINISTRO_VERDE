@@ -8,6 +8,21 @@
       h1 Productos y servicios verdes
  
     //- Col3 y Col9
+    .container.mb-3
+      .row.align-items-center(data-aos="fade-left")
+        .col-12.col-md-12.col-lg-3
+          figure
+            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img19.png', alt='Imagen Decorativa')
+        .col-12.col-md-12.col-lg-9
+          p Los productos y servicios verdes protegen el medio ambiente, fomentan la economía circular y promueven un consumo más responsable. Contribuyen a mitigar el cambio climático y a conservar los recursos naturales. Además, fortalecen la imagen empresarial y responden a las demandas de consumidores cada vez más conscientes.
+
+    separador
+
+    //- Titulo
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2#t_1_1 1.1 Concepto
+
+    //- Col3 y Col9
     .container.mb-5
       .row.align-items-center.bg-color-secundario-s10.p-4(data-aos="fade-left").icono-inferior
         .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto
@@ -33,7 +48,7 @@
 
           //- Titulo
           .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-            h2#t_1_1 1.1 Clases
+            h2#t_1_2 1.2 Tipos
 
           //- Col1 y Col9
           .container.mb-5
@@ -122,7 +137,7 @@
 
     //- Titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_2 1.2 Características
+      h2#t_1_3 1.3 Características
 
 
     //- Col3 y Col9
@@ -155,7 +170,7 @@
 
     //- Titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_3 1.3 Especificaciones técnicas
+      h2#t_1_4 1.4 Especificaciones técnicas
 
     //- Col Imagen y Texto
     .bloque-texto-g.bg-color-terciario-t20.p-3.p-sm-4.p-md-5.mb-5

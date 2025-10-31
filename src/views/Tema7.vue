@@ -63,7 +63,7 @@
 
             //- titulo
             .titulo-segundo.color-acento-contenido(data-aos="fade-right").mb-3
-              h2#t_7_3 7.4 Flexibilidad
+              h2#t_7_4 7.4 Flexibilidad
             p.mb-0 La flexibilidad como prioridad competitiva permite a las empresas adaptarse rápidamente a cambios regulatorios, necesidades del mercado o innovaciones tecnológicas, siempre con un enfoque de sostenibilidad. Esto implica la capacidad de ajustar procesos, materiales o estrategias sin comprometer la eficiencia ni el compromiso ambiental. Ser flexible es esencial para mantenerse competitivo en entornos dinámicos y conscientes del impacto ecológico.
           
           .col-8.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto.order-1.order-lg-2

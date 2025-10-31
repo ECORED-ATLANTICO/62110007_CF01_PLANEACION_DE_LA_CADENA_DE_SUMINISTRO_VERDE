@@ -78,6 +78,10 @@
 
     separador
 
+    //- titulo
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2#t_5_3 5.3 Cadena de valor
+
 
     //- Col3 y Col9
     .container.mb-3
@@ -92,10 +96,10 @@
                 h4.mb-0.ps-3 El análisis de la cadena de valor sostenible permite comprender cómo una empresa genera valor en cada etapa de sus operaciones, integrando criterios ambientales, sociales y económicos. Esta perspectiva propone una transformación tanto en las actividades primarias como en las de apoyo, buscando minimizar impactos negativos y maximizar beneficios integrales para el entorno y los grupos de interés (Porter & Kramer, 2011; López & Muñoz, 2021). 
                 i.fas.fa-quote-right
 
-    p.mb-5 A continuación, se presentan las principales actividades de la cadena de valor y su relación con la sostenibilidad:
+    p.mb-4 A continuación, se presentan las principales actividades de la cadena de valor y su relación con la sostenibilidad:
 
     .row.align-items-center(data-aos="fade-left").justify-content-center
-      .col-12.col-lg-5
+      .col-12.col-lg-6
          .tarjeta.p-4.h-100.bg-color-terciario-t20.mb-4.mb-lg-0
               .row.justify-content-center.mb-3
                 .col-6.col-lg-5
@@ -104,7 +108,7 @@
                 h3.py-1 Actividades primarias
                 p Incluyen procesos logísticos, productivos y comerciales que generan valor directo al producto, integrando eficiencia energética, transporte verde, empaques sostenibles y estrategias posventa que prolongan la vida útil y reducen impactos ambientales.
         
-      .col-12.col-lg-5
+      .col-12.col-lg-6
          .tarjeta.p-4.h-100.bg-color-primario-p20
               .row.justify-content-center.mb-3
                 .col-6.col-lg-5
@@ -118,7 +122,7 @@
 
     //- titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_4 5.4 Beneficios
+      h2#t_5_4 5.4 Modelos de cadena de valor
 
     //- banner con tarjeta
     .row.justify-content-center.align-items-center.mb-3.tarjeta(data-aos="fade-left")

@@ -17,7 +17,7 @@
         .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
           p El componente formativo “Principios de la cadena de suministro sostenible” ofrece al aprendiz herramientas técnicas y prácticas para abordar la gestión eficiente de los flujos de materiales, información y recursos en entornos productivos sostenibles. A partir del conocimiento de los productos y procesos verdes, se fortalecen las competencias para planear, diseñar e integrar cadenas de suministro basadas en criterios ambientales, sociales y económicos que impulsen la competitividad empresarial.
           .cajon.bg-color-primario-p10.p-4
-            p.mb-0 Este componente también enfatiza en la comprensión de modelos de integración sostenible, la aplicación de sistemas push y pull, y la identificación de prioridades competitivas con un enfoque en la optimización de recursos y la innovación. Además, promueve la toma de decisiones responsables y el compromiso con la sostenibilidad en cada eslabón de la cadena. Así, se contribuye a la formación de profesionales capaces de liderar procesos productivos sostenibles y de alto impacto en el sector logístico.
+            p.mb-0 Este componente también enfatiza en la comprensión de modelos de integración sostenible, la aplicación de sistemas <em>push</em> y <em>pull</em>, y la identificación de prioridades competitivas con un enfoque en la optimización de recursos y la innovación. Además, promueve la toma de decisiones responsables y el compromiso con la sostenibilidad en cada eslabón de la cadena. Así, se contribuye a la formación de profesionales capaces de liderar procesos productivos sostenibles y de alto impacto en el sector logístico.
 
     // Video
     figure.mb-5

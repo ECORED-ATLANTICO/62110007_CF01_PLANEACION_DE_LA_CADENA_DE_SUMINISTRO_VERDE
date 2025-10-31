@@ -18,8 +18,6 @@
     .bg-full-width.bg01
       separador
 
-
-    
       //- titulo
       .titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2#t_4_1 4.1 Concepto
@@ -38,7 +36,7 @@
           b Ejemplo: 
           | una empresa textil implementa una cadena de suministro verde al utilizar algodón orgánico certificado, reducir el consumo de agua en los procesos de teñido y gestionar eficientemente los residuos textiles.
 
-    separador
+      separador
 
     //- titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -120,6 +118,7 @@
     separador
 
     .bg-full-width.bg01
+     
       //- titulo
       .titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2#t_4_4 4.4 Fases
@@ -134,53 +133,53 @@
 
       .row.mb-5
         .col-12.col-lg-10.mx-auto
-        .tarjeta.p-4.bg02
-              .tarjeta--blanca.p-4
-                SlyderA(tipo="b")
-                  .tarjeta
-                    .row.align-items-center.mx-auto.justify-content-center
-                      .col-12.col-lg-2.col-md-6
-                        figure
-                          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img13.png', alt='Imagen Decorativa')
-                      .col-12.col-lg-8
-                        h5.mb-4 Diagnóstico 
-                        p Se identifica el estado actual de la cadena y los impactos más críticos mediante evaluaciones como auditorías energéticas o ambientales para conocer las áreas de mejora.
+          .tarjeta.p-4.bg02
+                .tarjeta--blanca.p-4
+                  SlyderA(tipo="b")
+                    .tarjeta
+                      .row.align-items-center.mx-auto.justify-content-center
+                        .col-12.col-lg-2.col-md-6
+                          figure
+                            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img13.png', alt='Imagen Decorativa')
+                        .col-12.col-lg-8
+                          h5.mb-4 Diagnóstico 
+                          p Se identifica el estado actual de la cadena y los impactos más críticos mediante evaluaciones como auditorías energéticas o ambientales para conocer las áreas de mejora.
 
-                  .tarjeta
-                    .row.align-items-center.mx-auto.justify-content-center
-                      .col-12.col-lg-2.col-md-6
-                        figure
-                          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img14.png', alt='Imagen Decorativa')
-                      .col-12.col-lg-8
-                        h5.mb-4 Diseño del plan
-                        p Se establecen estrategias sostenibles con metas claras, recursos definidos e indicadores de seguimiento, por ejemplo, reducir un porcentaje específico de emisiones en un periodo determinado.
-                  
-                  .tarjeta
-                    .row.align-items-center.mx-auto.justify-content-center
-                      .col-12.col-lg-2.col-md-6
-                        figure
-                          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img15.png', alt='Imagen Decorativa')
-                      .col-12.col-lg-8
-                        h5.mb-4 Monitoreo
-                        p Se realiza un control periódico de los avances y del cumplimiento de los objetivos establecidos, como el seguimiento mensual de consumos energéticos o de recursos.
+                    .tarjeta
+                      .row.align-items-center.mx-auto.justify-content-center
+                        .col-12.col-lg-2.col-md-6
+                          figure
+                            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img14.png', alt='Imagen Decorativa')
+                        .col-12.col-lg-8
+                          h5.mb-4 Diseño del plan
+                          p Se establecen estrategias sostenibles con metas claras, recursos definidos e indicadores de seguimiento, por ejemplo, reducir un porcentaje específico de emisiones en un periodo determinado.
+                    
+                    .tarjeta
+                      .row.align-items-center.mx-auto.justify-content-center
+                        .col-12.col-lg-2.col-md-6
+                          figure
+                            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img15.png', alt='Imagen Decorativa')
+                        .col-12.col-lg-8
+                          h5.mb-4 Monitoreo
+                          p Se realiza un control periódico de los avances y del cumplimiento de los objetivos establecidos, como el seguimiento mensual de consumos energéticos o de recursos.
 
-                  .tarjeta
-                    .row.align-items-center.mx-auto.justify-content-center
-                      .col-12.col-lg-2.col-md-6
-                        figure
-                          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img16.png', alt='Imagen Decorativa')
-                      .col-12.col-lg-8
-                        h5.mb-4 Ejecución
-                        p Se ponen en marcha las acciones planeadas, incluyendo la formación del personal y la implementación de tecnologías limpias que impulsen la sostenibilidad operativa.
+                    .tarjeta
+                      .row.align-items-center.mx-auto.justify-content-center
+                        .col-12.col-lg-2.col-md-6
+                          figure
+                            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img16.png', alt='Imagen Decorativa')
+                        .col-12.col-lg-8
+                          h5.mb-4 Ejecución
+                          p Se ponen en marcha las acciones planeadas, incluyendo la formación del personal y la implementación de tecnologías limpias que impulsen la sostenibilidad operativa.
 
-                  .tarjeta
-                    .row.align-items-center.mx-auto.justify-content-center
-                      .col-12.col-lg-2.col-md-6
-                        figure
-                          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img17.png', alt='Imagen Decorativa')
-                      .col-12.col-lg-8
-                        h5.mb-4 Mejora continua
-                        p Se analizan los resultados obtenidos y se formulan ajustes o nuevas acciones que optimicen los procesos, como rediseñar empaques tras evaluar su impacto ambiental.
+                    .tarjeta
+                      .row.align-items-center.mx-auto.justify-content-center
+                        .col-12.col-lg-2.col-md-6
+                          figure
+                            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img17.png', alt='Imagen Decorativa')
+                        .col-12.col-lg-8
+                          h5.mb-4 Mejora continua
+                          p Se analizan los resultados obtenidos y se formulan ajustes o nuevas acciones que optimicen los procesos, como rediseñar empaques tras evaluar su impacto ambiental.
 
 
     separador
@@ -212,8 +211,14 @@
               img.mb-4(src='@/assets/curso/temas/tema4/img12.png', alt='Imagen Decorativa')
               p Se diferencian por el nivel de avance tecnológico: tradicional, digital, automatizada e inteligente, integrando herramientas como sensores IoT para monitorear condiciones en tiempo real.
       
+      separador
+
+      //- titulo
+      .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2#t_4_6 4.6 Caracterización
+
       //- Col3 y Col9
-      .container.mb-3
+      .container.mb-4
         .row.align-items-center(data-aos="fade-left")
           .col-12.col-md-8.col-lg-3.mx-auto
             figure

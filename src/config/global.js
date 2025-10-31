@@ -41,18 +41,23 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Clases',
+            titulo: 'Concepto',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Caracteristicas',
+            titulo: 'Tipos',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
+            titulo: 'Caracteristicas',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
             titulo: 'Especificaciones técnicas',
-            hash: 't_1_1',
+            hash: 't_1_4',
           },
         ],
       },
@@ -240,7 +245,7 @@ export default {
           },
           {
             numero: '7.4',
-            titulo: 'Aplicabilidad',
+            titulo: 'Flexibilidad',
             hash: 't_7_4',
           },
           {

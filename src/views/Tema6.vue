@@ -13,7 +13,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/img01.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los sistemas push y pull sostenibles integran prácticas responsables en la planificación, producción y distribución, considerando criterios ambientales, sociales y económicos. Su enfoque está alineado con la economía circular y la reducción de la huella ambiental.
+        p.mb-0 Los sistemas <em>push</em> y <em>pull</em> sostenibles integran prácticas responsables en la planificación, producción y distribución, considerando criterios ambientales, sociales y económicos. Su enfoque está alineado con la economía circular y la reducción de la huella ambiental.
 
     separador
 
@@ -27,7 +27,7 @@
         .tarjeta-horz.mb-3
           img(src='@/assets/curso/temas/tema6/img02.png', alt='Imagen decorativa')
           div.texto-tarjeta.bg-white
-              p.mb-0 En la gestión moderna de la cadena de suministro verde, los sistemas push y pull se adaptan para integrar criterios de sostenibilidad. Ambos enfoques buscan equilibrar la eficiencia operativa con el uso responsable de recursos, promoviendo la reducción de desperdicios, la optimización energética y la producción responsable según las necesidades del mercado.
+              p.mb-0 En la gestión moderna de la cadena de suministro verde, los sistemas <em>push</em> y <em>pull</em> se adaptan para integrar criterios de sostenibilidad. Ambos enfoques buscan equilibrar la eficiencia operativa con el uso responsable de recursos, promoviendo la reducción de desperdicios, la optimización energética y la producción responsable según las necesidades del mercado.
 
     .row(data-aos="fade-left").justify-content-center.tarjeta-doble
       .col-12.col-lg-5
@@ -123,7 +123,7 @@
                   img(src="@/assets/curso/temas/tema6/img06.png", alt="Imagen decorativa")
               .crd_hover_txt--body
                 p.text-bold.mb-3.text-center <em>Push</em> sostenible
-                p Push  sostenible	Recomendado para agricultura ecológica a gran escala, ya que permite anticipar la demanda aplicando prácticas responsables y materiales ecoeficientes, minimizando pérdidas y optimizando recursos.
+                p <em>Push</em> sostenible	Recomendado para agricultura ecológica a gran escala, ya que permite anticipar la demanda aplicando prácticas responsables y materiales ecoeficientes, minimizando pérdidas y optimizando recursos.
 
           .col-xl-4.col-lg-4.col-12.mb-4.mb-xl-0.col-md-8
             .crd_hover_txt(data-aos="flip-left")
