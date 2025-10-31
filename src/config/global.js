@@ -298,22 +298,179 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
+      tema: 'Productos y servicios verdes',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2020, septiembre 15). <em>Negocios verdes</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=AYRX9Ofq5xk&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+    },
+    {
+      tema: 'Productos y servicios verdes',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022, marzo 10). <em>Productos y negocios sostenibles </em>[Video]. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=P37n6kTYaZ0&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+    },
+    {
+      tema: 'Cadena de suministro sostenible',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021, junio 5).<em> Introducción planear cadena de suministros</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=HyBD-xmqO3o',
     },
   ],
   glosario: [
     {
-      termino: 'aaa',
-      significado: 'aaa',
+      termino: 'Abastecimiento responsable',
+      significado:
+        'Proceso de adquirir insumos considerando criterios sociales, ambientales y éticos.',
+    },
+    {
+      termino: 'Actividades sostenibles',
+      significado:
+        'Acciones que reducen impactos negativos y promueven eficiencia ambiental, social y económica.',
+    },
+    {
+      termino: 'Cadena de suministro',
+      significado:
+        'Conjunto de procesos desde el origen hasta la entrega del producto al cliente final.',
+    },
+    {
+      termino: 'Cadena de suministro sostenible',
+      significado:
+        'Gestión de procesos logísticos con prácticas que reducen el impacto ambiental y mejoran la responsabilidad social.',
+    },
+    {
+      termino: 'Cadena de valor',
+      significado:
+        'Actividades que agregan valor a un producto desde su diseño hasta el servicio posventa.',
+    },
+    {
+      termino: 'Certificación ambiental',
+      significado:
+        'Reconocimiento oficial que valida el cumplimiento de estándares sostenibles en productos o procesos.',
+    },
+    {
+      termino: 'Cliente verde',
+      significado:
+        'Consumidor que prefiere productos y servicios respetuosos con el ambiente y la sociedad.',
+    },
+    {
+      termino: 'Diseño ecológico',
+      significado:
+        'Desarrollo de productos considerando su impacto ambiental desde el inicio hasta el final de su ciclo de vida.',
+    },
+    {
+      termino: 'Eficiencia energética',
+      significado:
+        'Uso óptimo de la energía para reducir consumo, costos y emisiones contaminantes.',
+    },
+    {
+      termino: 'Logística verde',
+      significado:
+        'Organización del transporte, almacenamiento y distribución con bajo impacto ambiental.',
+    },
+    {
+      termino: 'Modelo de economía circular',
+      significado:
+        'Estrategia que busca reutilizar recursos, evitando el desperdicio y reduciendo el uso de materias primas nuevas.',
+    },
+    {
+      termino: 'Producción limpia',
+      significado:
+        'Procesos productivos que minimizan residuos, emisiones y uso de recursos sin afectar la calidad.',
+    },
+    {
+      termino: 'Producto verde',
+      significado:
+        'Bien diseñado para tener bajo impacto ambiental durante todo su ciclo de vida.',
+    },
+    {
+      termino: 'Prioridades competitivas',
+      significado:
+        'Factores clave como costo, calidad, tiempo e innovación que mejoran el posicionamiento de una empresa.',
+    },
+    {
+      termino: 'Servicios sostenibles',
+      significado:
+        'Actividades económicas que respetan el ambiente y contribuyen al desarrollo social.',
+    },
+    {
+      termino: 'Sistema pull',
+      significado:
+        'Producción y distribución que responde a la demanda real, evitando excesos y residuos.',
+    },
+    {
+      termino: 'Sistema push',
+      significado:
+        'Producción basada en estimaciones de demanda, organizada anticipadamente.',
+    },
+    {
+      termino: 'Sostenibilidad',
+      significado:
+        'Equilibrio entre crecimiento económico, cuidado ambiental y bienestar social a largo plazo.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'Capacidad de seguir el recorrido de un producto desde su origen hasta su destino final.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Ávila Gómez, D. C. (2014). <em>Cadena de abastecimiento sostenible: marco teórico y beneficios.</em> Universidad Militar Nueva Granada.',
+      link:
+        'https://repository.umng.edu.co/bitstream/handle/10654/11661/Diana%20Carolina%20Avila%20Gomez%202014.pdf?sequence=1',
+    },
+    {
+      referencia:
+        'Chopra, S., & Meindl, P. (2013). <em>Administración de la cadena de suministro: Estrategia, planeación y operación</em> (5ª ed.). Pearson Educación.',
+      link:
+        'https://gc.scalahed.com/recursos/files/r161r/w24567w/Sunil_Chopral.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2022). <em>Anexo 2: Tendencias de mercado de los negocios verdes del Plan Nacional de Negocios Verdes 2022–2030.</em>',
+      link:
+        'https://www.minambiente.gov.co/wp-content/uploads/2022/11/Anexo2-Tendencias-de-mercado-de-NV-del-PNNV-2022-2030.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2023). <em>Catálogo de negocios verdes 2023.</em>',
+      link:
+        'https://www.minambiente.gov.co/wp-content/uploads/2023/12/CATALOGO-NEGOCIOS-VERDES-2023-4.pdf',
+    },
+    {
+      referencia:
+        'Rodríguez-Guevara, E. G., García-Bonilla, D. A., & Pineda-Ospina, D. L. (2024).<em> Prácticas de gestión sostenible en las cadenas de suministro. Universidad del Valle.</em>',
+      link:
+        'https://www.researchgate.net/publication/378836283_Practicas_de_gestion_sostenible_en_las_cadenas_de_suministro',
+    },
+    {
+      referencia:
+        'Srivastava, S. K. (2007).<em> Gestión de la cadena de suministro verde: integración del pensamiento ambiental. En La gestión de la cadena de suministro sostenible: análisis de integración.</em> Universidad Complutense de Madrid.',
+      link:
+        'https://docta.ucm.es/bitstreams/551ec71b-a4cd-4a4b-8a2f-0fff4fb1ece8/download',
+    },
+    {
+      referencia:
+        'Torres-Salazar, M., Rivas-Torres, A., & Martínez-Aguilar, E. (2016). <em>Talento verde y cadenas de suministro verdes: ¿existe una relación significativa? Revista Nova Scientia,</em> 8(1), 421–454.',
+      link: 'https://www.redalyc.org/pdf/2033/203345704021.pdf',
+    },
+    {
+      referencia:
+        'Ulloa, J. C. (2023).<em> Revisión de literatura sobre gestión de cadenas de suministro sostenible. </em>Universidad del Rosario.',
+      link:
+        'https://revistas.urosario.edu.co/index.php/empresa/article/download/12734/11586/57840',
+    },
+    {
+      referencia:
+        'WWF Sustainable Consumption Platform. (2022).<em> Guía de abastecimiento sostenible.</em> WWF SCP.',
+      link:
+        'https://www.wwf-scp.org/wp-content/uploads/2022/09/Guia-de-abastecimiento-sostenible_B14S_C5_web.pdf',
     },
   ],
   creditos: [
@@ -321,14 +478,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -336,9 +494,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Paola Andrea Bobadilla Gutiérrez ',
+          cargo: 'Guionista línea de producción.  ',
+          centro: 'Centro Agroindustrial - Regional Quindío',
+        },
+        {
+          nombre: 'Jair Coll Gallardo',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -346,19 +509,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Antonio Vecino',
+          cargo: 'Diseñador <em>web</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Álvaro Guillermo Araújo Angarita',
+          cargo: 'Desarrollador <i>full stack junior</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -366,14 +529,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
