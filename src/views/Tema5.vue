@@ -45,34 +45,35 @@
 
     separador
 
-    //- titulo
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_2 5.2 Tipos de empresa
+    .bg-full-width.bg01
+      //- titulo
+      .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2#t_5_2 5.2 Tipos de empresa
 
-    p.mb-5 La adopción de cadenas de valor sostenibles varía según el tipo y tamaño de empresa, sus recursos disponibles y su sector económico. A continuación, se describen los principales tipos:
-    //- Col3 y Col9
-    .container.mb-5
-      .row.align-items-center(data-aos="fade-left")
-        .col-12.col-md-8.col-lg-4.mb-4.mb-lg-0.mx-auto
-          figure
-            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema5/img03.png', alt='Imagen Decorativa')
-        .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
-          //- Linea de tiempo
-          LineaTiempoD.color-primario
-            .row(numero="1" titulo="Microempresa")
-              p.mb-0 Bajo nivel de formalización y recursos limitados, operan en mercados locales. Implementan prácticas sostenibles básicas como reutilización de materiales, compras locales y empaques reciclables que reducen su impacto ambiental.
+      p.mb-5 La adopción de cadenas de valor sostenibles varía según el tipo y tamaño de empresa, sus recursos disponibles y su sector económico. A continuación, se describen los principales tipos:
+      //- Col3 y Col9
+      .container.mb-5
+        .row.align-items-center(data-aos="fade-left")
+          .col-12.col-md-8.col-lg-4.mb-4.mb-lg-0.mx-auto
+            figure
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema5/img03.png', alt='Imagen Decorativa')
+          .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
+            //- Linea de tiempo
+            LineaTiempoD.color-primario
+              .row(numero="1" titulo="Microempresa")
+                p.mb-0 Bajo nivel de formalización y recursos limitados, operan en mercados locales. Implementan prácticas sostenibles básicas como reutilización de materiales, compras locales y empaques reciclables que reducen su impacto ambiental.
 
-            .row(numero="2" titulo="Pequeña empresa")
-              p.mb-0 Posee una estructura simple y opera en entornos regionales con recursos técnicos moderados. Empieza a incorporar eficiencia energética, separación de residuos y alianzas con proveedores sostenibles para fortalecer su gestión ambiental.
+              .row(numero="2" titulo="Pequeña empresa")
+                p.mb-0 Posee una estructura simple y opera en entornos regionales con recursos técnicos moderados. Empieza a incorporar eficiencia energética, separación de residuos y alianzas con proveedores sostenibles para fortalecer su gestión ambiental.
 
-            .row(numero="3" titulo="Mediana empresa")
-              p.mb-0 Cuenta con procesos más formales y capacidad de innovación. Integra certificaciones ambientales, sistemas de logística inversa, energías renovables y programas de responsabilidad social para optimizar su cadena de valor sostenible.
+              .row(numero="3" titulo="Mediana empresa")
+                p.mb-0 Cuenta con procesos más formales y capacidad de innovación. Integra certificaciones ambientales, sistemas de logística inversa, energías renovables y programas de responsabilidad social para optimizar su cadena de valor sostenible.
 
-            .row(numero="4" titulo="Gran empresa")
-              p.mb-0 Dispone de alta capacidad técnica y opera en mercados amplios con sofisticación operativa. Aplica estándares internacionales, auditorías ambientales y tecnologías limpias, alineando sus operaciones con los Objetivos de Desarrollo Sostenible.
+              .row(numero="4" titulo="Gran empresa")
+                p.mb-0 Dispone de alta capacidad técnica y opera en mercados amplios con sofisticación operativa. Aplica estándares internacionales, auditorías ambientales y tecnologías limpias, alineando sus operaciones con los Objetivos de Desarrollo Sostenible.
 
-            .row(numero="5" titulo="Empresas verdes")
-              p.mb-0 Nacen con un propósito ambiental o social como eje central. Su modelo de negocio se basa en economía circular, innovación ecológica, productos ecoetiquetados y medición continua del impacto para garantizar sostenibilidad integral.
+              .row(numero="5" titulo="Empresas verdes")
+                p.mb-0 Nacen con un propósito ambiental o social como eje central. Su modelo de negocio se basa en economía circular, innovación ecológica, productos ecoetiquetados y medición continua del impacto para garantizar sostenibilidad integral.
 
 
     separador
@@ -128,28 +129,26 @@
               p.mb-0 Existen diversos modelos de cadena de valor sostenible que permiten a las organizaciones integrar la sostenibilidad en sus operaciones de manera estratégica y estructurada. Estos modelos ofrecen marcos conceptuales y metodológicos que ayudan a incorporar criterios sociales, ambientales y éticos en cada eslabón de la cadena, promoviendo no solo el cumplimiento normativo, sino también la generación de valor compartido, innovación y competitividad responsable. A continuación, se describen algunos de los modelos más relevantes:
     
     
+    .bg-full-width.bg01
+      //- Col3 y Col9
+      .container.mb-3
+        .row.align-items-center(data-aos="fade-left")
+          .col-12.col-md-12.col-lg-9.mb-4.mb-lg-0
+            //- Acordion
+            AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+              div(titulo="Modelo de porter revisado")
+                  p Basado en la cadena de valor tradicional de Michael Porter, este modelo integra el enfoque de valor compartido. Busca beneficios económicos junto con impactos positivos en lo social y ambiental, convirtiendo la sostenibilidad en ventaja competitiva mediante reputación, reducción de riesgos y nuevas oportunidades de mercado.
+              div(titulo="Modelo de economía circular")
+                  p Promueve el cierre de ciclos productivos, reutilizando residuos como insumos para nuevas etapas. Incluye prácticas de reciclaje, reparación, remanufactura y rediseño, transformando la lógica lineal producir - usar - desechar en un sistema eficiente, regenerativo y menos dependiente de recursos naturales.
+              div(titulo="Modelo del triple resultado (<em>Triple Bottom Line</em> - TBL)")
+                  p Evaluación integral del desempeño empresarial considerando tres dimensiones: económica (ganancias), social (personas) y ambiental (planeta). Permite medir sostenibilidad de manera equilibrada, entendiendo que el éxito empresarial no se define solo por los resultados financieros, sino también por el impacto positivo en la sociedad y el entorno.
+              div(titulo="Modelo <em>cradle to cradle</em> (de la cuna a la cuna)")
+                  p Enfoque de diseño regenerativo inspirado en la naturaleza, donde no hay residuos, solo nutrientes que se reintegran al sistema. Promueve materiales biodegradables o reciclables, uso de energías renovables, eficiencia en agua y químicos, y procesos industriales responsables con el medioambiente, eliminando el concepto de desperdicio.
+            
+          .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto
+            figure
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema5/img08.png', alt='Imagen Decorativa')
     
-    //- Col3 y Col9
-    .container.mb-3
-      .row.align-items-center(data-aos="fade-left")
-        .col-12.col-md-12.col-lg-9.mb-4.mb-lg-0
-          //- Acordion
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-            div(titulo="Modelo de porter revisado")
-                p lorem lipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            div(titulo="Modelo de economía circular")
-                p Promueve el cierre de ciclos productivos, reutilizando residuos como insumos para nuevas etapas. Incluye prácticas de reciclaje, reparación, remanufactura y rediseño, transformando la lógica lineal producir - usar - desechar en un sistema eficiente, regenerativo y menos dependiente de recursos naturales.
-            div(titulo="Modelo del triple resultado ")
-                p lorem lipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            div(titulo="Modelo del triple resultado (<em>Triple Bottom Line</em> - TBL)")
-                p lorem lipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            div(titulo="Modelo cradle to cradle (de la cuna a la cuna)")
-                p lorem lipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-           
-        .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto
-          figure
-            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema5/img08.png', alt='Imagen Decorativa')
-   
 
     .row
       .col-12.col-lg-10.mx-auto

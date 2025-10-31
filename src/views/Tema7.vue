@@ -32,42 +32,43 @@
     
     separador
 
-    //- titulo
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_2 7.2 Tiempo
+    .bg-full-width.bg01
+      //- titulo
+      .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2#t_7_2 7.2 Tiempo
 
-    //- Col3 y Col9
-    .container.mb-3
-      .row.align-items-center(data-aos="fade-left")
-        .col-12.col-md-8.col-lg-3.mx-auto
-          figure
-            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema7/img03.png', alt='Imagen Decorativa')
-        .col-12.col-md-12.col-lg-9
-          p La prioridad competitiva de tiempo busca optimizar la eficiencia de los procesos de manera sostenible. Al reducir los plazos de producción, entrega o respuesta, se disminuye el consumo de recursos energéticos y materiales, así como las emisiones de gases contaminantes. Medir y gestionar el tiempo en cada etapa de la cadena de suministro permite identificar oportunidades de mejora, agilizar procesos y coordinar mejor a los diferentes actores, garantizando que los productos o servicios lleguen al cliente de manera rápida, confiable y con un menor impacto ambiental.
+      //- Col3 y Col9
+      .container.mb-3
+        .row.align-items-center(data-aos="fade-left")
+          .col-12.col-md-8.col-lg-3.mx-auto
+            figure
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema7/img03.png', alt='Imagen Decorativa')
+          .col-12.col-md-12.col-lg-9
+            p La prioridad competitiva de tiempo busca optimizar la eficiencia de los procesos de manera sostenible. Al reducir los plazos de producción, entrega o respuesta, se disminuye el consumo de recursos energéticos y materiales, así como las emisiones de gases contaminantes. Medir y gestionar el tiempo en cada etapa de la cadena de suministro permite identificar oportunidades de mejora, agilizar procesos y coordinar mejor a los diferentes actores, garantizando que los productos o servicios lleguen al cliente de manera rápida, confiable y con un menor impacto ambiental.
 
 
-    separador
+      separador
 
     
-    //- Col9 y Col3
-    .container.mb-3
-      .row.align-items-center(data-aos="fade-left")
-        .col-12.col-md-12.col-lg-9.mb-4.mb-lg-0.order-2.order-lg-1
-          //- titulo
-          .titulo-segundo.color-acento-contenido(data-aos="fade-right").mb-3
-            h2#t_7_3 7.3 calidad
-          p.mb-0 La calidad sostenible integra el cumplimiento de estándares de desempeño con criterios ambientales y de salud. Esto incluye el uso de materiales no tóxicos, biodegradables, certificados orgánicos o de comercio justo, y la implementación de procesos que minimicen impactos ecológicos. La gestión de calidad sostenible asegura que los productos o servicios no solo sean funcionales, sino también responsables con el medio ambiente y la sociedad.
-          
-          separador
+      //- Col9 y Col3
+      .container.mb-3
+        .row.align-items-center(data-aos="fade-left")
+          .col-12.col-md-12.col-lg-9.mb-4.mb-lg-0.order-2.order-lg-1
+            //- titulo
+            .titulo-segundo.color-acento-contenido(data-aos="fade-right").mb-3
+              h2#t_7_3 7.3 calidad
+            p.mb-0 La calidad sostenible integra el cumplimiento de estándares de desempeño con criterios ambientales y de salud. Esto incluye el uso de materiales no tóxicos, biodegradables, certificados orgánicos o de comercio justo, y la implementación de procesos que minimicen impactos ecológicos. La gestión de calidad sostenible asegura que los productos o servicios no solo sean funcionales, sino también responsables con el medio ambiente y la sociedad.
+            
+            separador
 
-          //- titulo
-          .titulo-segundo.color-acento-contenido(data-aos="fade-right").mb-3
-            h2#t_7_3 7.4 Flexibilidad
-          p.mb-0 La flexibilidad como prioridad competitiva permite a las empresas adaptarse rápidamente a cambios regulatorios, necesidades del mercado o innovaciones tecnológicas, siempre con un enfoque de sostenibilidad. Esto implica la capacidad de ajustar procesos, materiales o estrategias sin comprometer la eficiencia ni el compromiso ambiental. Ser flexible es esencial para mantenerse competitivo en entornos dinámicos y conscientes del impacto ecológico.
-        
-        .col-8.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto.order-1.order-lg-2
-          figure
-            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema7/img04.png', alt='Imagen Decorativa')
+            //- titulo
+            .titulo-segundo.color-acento-contenido(data-aos="fade-right").mb-3
+              h2#t_7_3 7.4 Flexibilidad
+            p.mb-0 La flexibilidad como prioridad competitiva permite a las empresas adaptarse rápidamente a cambios regulatorios, necesidades del mercado o innovaciones tecnológicas, siempre con un enfoque de sostenibilidad. Esto implica la capacidad de ajustar procesos, materiales o estrategias sin comprometer la eficiencia ni el compromiso ambiental. Ser flexible es esencial para mantenerse competitivo en entornos dinámicos y conscientes del impacto ecológico.
+          
+          .col-8.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto.order-1.order-lg-2
+            figure
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema7/img04.png', alt='Imagen Decorativa')
 
 
     separador

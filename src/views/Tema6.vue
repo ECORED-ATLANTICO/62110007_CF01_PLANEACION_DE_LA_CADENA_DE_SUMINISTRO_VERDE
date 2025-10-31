@@ -52,65 +52,66 @@
     
     separador
 
-    //- titulo
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_6_2 6.2 Diferencias
+    .bg-full-width.bg01
+      //- titulo
+      .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2#t_6_2 6.2 Diferencias
 
-    //- Col1 y Col11
-    .container.mb-5
-      .row.align-items-center(data-aos="fade-left")
-        .col-8.col-md-8.col-lg-1.mb-4.mb-lg-0.mx-auto
-          figure
-            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/img05.svg', alt='Imagen Decorativa')
-        .col-12.col-md-12.col-lg-11.mb-4.mb-lg-0
-          p.mb-0 Los sistemas <em>push</em> y <em>pull</em> en logística se diferencian en cómo se planifica y responde a la demanda. En un enfoque sostenible, estas diferencias también consideran el impacto ambiental y la eficiencia en el uso de recursos.
+      //- Col1 y Col11
+      .container.mb-5
+        .row.align-items-center(data-aos="fade-left")
+          .col-8.col-md-8.col-lg-1.mb-4.mb-lg-0.mx-auto
+            figure
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/img05.svg', alt='Imagen Decorativa')
+          .col-12.col-md-12.col-lg-11.mb-4.mb-lg-0
+            p.mb-0 Los sistemas <em>push</em> y <em>pull</em> en logística se diferencian en cómo se planifica y responde a la demanda. En un enfoque sostenible, estas diferencias también consideran el impacto ambiental y la eficiencia en el uso de recursos.
 
-    //- Tabla
-    .row
-      .col-12.col-lg-10.mx-auto
-        .titulo-sexto.mb-4
-          h5 Tabla 1. 
-          span Tipos de funciones de los almacenes
-        .tabla-a.color-secundario
-          table
-            caption 
-              b Fuente: 
-              | adaptada de UNEP, 2020 y SENA, 2023.
-            thead
-              tr
-                th Aspecto
-                th Descripción 
-                th Ejemplo
-            tbody
-              tr
-                td Enfoque
-                td Producir según estimación, pero con prácticas verdes.
-                td Producir solo bajo demanda, reduciendo uso innecesario de recursos.
-              tr
-                td Consumo energético
-                td Controlado mediante eficiencia energética.
-                td Bajo, ya que solo se activa cuando hay necesidad.
+      //- Tabla
+      .row
+        .col-12.col-lg-10.mx-auto
+          .titulo-sexto.mb-4
+            h5 Tabla 1. 
+            span Tipos de funciones de los almacenes
+          .tabla-a.color-secundario
+            table
+              caption 
+                b Fuente: 
+                | adaptada de UNEP, 2020 y SENA, 2023.
+              thead
+                tr
+                  th Aspecto
+                  th Descripción 
+                  th Ejemplo
+              tbody
+                tr
+                  td Enfoque
+                  td Producir según estimación, pero con prácticas verdes.
+                  td Producir solo bajo demanda, reduciendo uso innecesario de recursos.
+                tr
+                  td Consumo energético
+                  td Controlado mediante eficiencia energética.
+                  td Bajo, ya que solo se activa cuando hay necesidad.
 
-              tr
-                td Gestión de residuos
-                td Planeada y controlada desde el diseño.
-                td Mínima, al evitar sobreproducción.
+                tr
+                  td Gestión de residuos
+                  td Planeada y controlada desde el diseño.
+                  td Mínima, al evitar sobreproducción.
 
-              tr
-                td Riesgo ambiental
-                td Medio, controlado con gestión preventiva.
-                td Bajo, gracias a la producción optimizada.
-              tr
-                td Ciclo de vida del producto
-                td Analizado desde el diseño (ecodiseño).
-                td Controlado y adaptado según la necesidad.
+                tr
+                  td Riesgo ambiental
+                  td Medio, controlado con gestión preventiva.
+                  td Bajo, gracias a la producción optimizada.
+                tr
+                  td Ciclo de vida del producto
+                  td Analizado desde el diseño (ecodiseño).
+                  td Controlado y adaptado según la necesidad.
 
 
       separador
 
       //- titulo
       .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2#t_4_2 4.2 Niveles
+        h2#t_6_3 6.3 Aplicabilidad
 
       p.mb-4 Ambos modelos pueden usarse en empresas verdes según su contexto operativo y mercado objetivo.
 

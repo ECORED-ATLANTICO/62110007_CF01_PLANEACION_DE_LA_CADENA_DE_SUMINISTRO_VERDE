@@ -306,8 +306,8 @@ export default {
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'aaa',
+      significado: 'aaa',
     },
   ],
   referencias: [
