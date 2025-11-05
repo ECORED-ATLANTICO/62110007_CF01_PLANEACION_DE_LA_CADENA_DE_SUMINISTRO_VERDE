@@ -278,19 +278,20 @@ export default {
         },
         {
           id: 13,
-          texto: 'PREGUNTA13',
-          imagen: require('@/assets/actividad/imagen6.png'),
+          texto:
+            'Los sistemas <em>push</em> y <em>pull</em> sostenibles buscan integrar prácticas responsables en la planificación y producción.',
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -299,7 +300,7 @@ export default {
         {
           id: 14,
           texto:
-            'Los sistemas <em>push</em> y <em>pull</em> sostenibles buscan integrar prácticas responsables en la planificación y producción.',
+            'El sistema <em>push</em> sostenible no considera criterios ambientales.',
           imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
