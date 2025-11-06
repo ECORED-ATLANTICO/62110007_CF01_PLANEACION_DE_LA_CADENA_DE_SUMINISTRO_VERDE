@@ -16,7 +16,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="El componente formativo “Principios de la cadena de suministro sostenible” ofrece una aproximación integral a los conocimientos sobre productos y servicios verdes y procesos de producción sostenible. Este módulo analiza la cadena de suministro verde, destacando la eficiencia, la reducción de impactos ambientales y la integración de los diferentes actores, y se desglosan sus eslabones, categorías y costos. Asimismo, se estudian los procesos de la cadena de suministro sostenible y su aplicación práctica en distintos niveles. La propuesta profundiza en la cadena de valor sostenible como herramienta estratégica y en los sistemas push y pull y las prioridades competitivas que permiten a las empresas destacarse con responsabilidad ambiental. ")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

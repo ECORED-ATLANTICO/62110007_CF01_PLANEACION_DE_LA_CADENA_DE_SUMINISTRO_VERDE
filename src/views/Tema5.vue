@@ -140,7 +140,7 @@
           .col-12.col-md-12.col-lg-9.mb-4.mb-lg-0
             //- Acordion
             AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-              div(titulo="Modelo de porter revisado")
+              div(titulo="Modelo de Porter revisado")
                   p Basado en la cadena de valor tradicional de Michael Porter, este modelo integra el enfoque de valor compartido. Busca beneficios económicos junto con impactos positivos en lo social y ambiental, convirtiendo la sostenibilidad en ventaja competitiva mediante reputación, reducción de riesgos y nuevas oportunidades de mercado.
               div(titulo="Modelo de economía circular")
                   p Promueve el cierre de ciclos productivos, reutilizando residuos como insumos para nuevas etapas. Incluye prácticas de reciclaje, reparación, remanufactura y rediseño, transformando la lógica lineal producir - usar - desechar en un sistema eficiente, regenerativo y menos dependiente de recursos naturales.

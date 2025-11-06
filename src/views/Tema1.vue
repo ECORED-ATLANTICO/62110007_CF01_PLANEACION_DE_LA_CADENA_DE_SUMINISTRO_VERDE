@@ -221,7 +221,7 @@
                         img(src='@/assets/curso/temas/tema1/img16.svg' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
                     .text-center
                       H5.bg-color-secundario.py-1 Embalaje sostenible
-                      p Se prioriza el uso de materias primas renovables, recicladas o de bajo impacto ambiental.
+                      p Uso de empaques reciclables o biodegradable.
 
             .col-12.col-md-8.col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
               figure
@@ -240,7 +240,7 @@
               .cajon.bg-color-secundario-s10.p-4
                 p.mb-0 
                   b Ejemplo: 
-                  | un refrigerador con sello Energy Star puede ahorrar hasta un 15% de energía respecto a modelos convencionales, lo que no solo reduce la factura eléctrica sino también la huella de carbono.
+                  | un refrigerador con sello Energy Star puede ahorrar hasta un 15 % de energía respecto a modelos convencionales, lo que no solo reduce la factura eléctrica sino también la huella de carbono.
 
       
    

@@ -151,7 +151,7 @@
           TabsA.color-terciario
             .tarjeta.p-3.px-4(titulo="Reactiva").bg-color-terciario-t5
               img.mb-4(src='@/assets/curso/temas/tema3/img11.png', alt='Imagen Decorativa')
-              p Adopta la sostenibilidad como estrategia voluntaria para mejorar su imagen y competitividad en el mercado.
+              p actúa por obligación legal, cumpliendo normativas ambientales solo cuando es exigido por las autoridades.
             .tarjeta.p-3.px-4(titulo="Proactiva").bg-color-terciario-t5
               img.mb-4(src='@/assets/curso/temas/tema3/img12.png', alt='Imagen Decorativa')
               p Adopta la sostenibilidad como estrategia voluntaria para mejorar su imagen y competitividad en el mercado.

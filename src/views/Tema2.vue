@@ -191,13 +191,17 @@
     //- Col10
     .row
       .col-12.col-lg-10.mx-auto
+        .titulo-sexto.mb-4
+          h5 Figura 2. 
+            span Fases clave en la producción sostenible
+
         ImagenInfografica.d-none.d-lg-block.img-infografica.color-primario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema2/img12.svg', alt='La figura relaciona cuatro técnicas de seguimiento comercial. La primera es la llamada telefónica; la segunda es el correo personalizado, la tercera es la reunión de seguimiento y finalmente el contenido adicional.')
               figcaption 
                 b Fuente. 
-                | Adaptado de Jobber & Lancaster, 2019.
+                | SENA, 2025.
 
           .tarjeta.color-acento-botones.p-2.px-3(x="27.9%" y="27%" numero="01")
             .row.align-items-center

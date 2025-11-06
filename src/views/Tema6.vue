@@ -71,7 +71,7 @@
         .col-12.col-lg-10.mx-auto
           .titulo-sexto.mb-4
             h5 Tabla 1. 
-            span Tipos de funciones de los almacenes
+            span Diferencias entre sistemas <em>push</em> y <em>pull</em> sostenibles 
           .tabla-a.color-secundario
             table
               caption 
@@ -123,7 +123,7 @@
                   img(src="@/assets/curso/temas/tema6/img06.png", alt="Imagen decorativa")
               .crd_hover_txt--body
                 p.text-bold.mb-3.text-center <em>Push</em> sostenible
-                p <em>Push</em> sostenible	Recomendado para agricultura ecológica a gran escala, ya que permite anticipar la demanda aplicando prácticas responsables y materiales ecoeficientes, minimizando pérdidas y optimizando recursos.
+                p Recomendado para agricultura ecológica a gran escala, ya que permite anticipar la demanda aplicando prácticas responsables y materiales ecoeficientes, minimizando pérdidas y optimizando recursos.
 
           .col-xl-4.col-lg-4.col-12.mb-4.mb-xl-0.col-md-8
             .crd_hover_txt(data-aos="flip-left")
@@ -132,7 +132,7 @@
                   img(src="@/assets/curso/temas/tema6/img07.png", alt="Imagen decorativa")
               .crd_hover_txt--body
                 p.text-bold.mb-3.text-center <em>Pull</em> sostenible
-                p Adecuado para moda lenta (slow fashion) y producción artesanal comunitaria, porque la fabricación se ajusta a la demanda real o por encargo, evitando sobreproducción, reduciendo residuos y fomentando comercio justo y consumo responsable.
+                p Adecuado para moda lenta <em>(slow fashion)</em> y producción artesanal comunitaria, porque la fabricación se ajusta a la demanda real o por encargo, evitando sobreproducción, reduciendo residuos y fomentando comercio justo y consumo responsable.
 
           .col-xl-4.col-lg-4.col-12.mb-4.mb-xl-0.col-md-8
             .crd_hover_txt(data-aos="flip-left")
@@ -141,7 +141,7 @@
                   img(src="@/assets/curso/temas/tema6/img08.png", alt="Imagen decorativa")
               .crd_hover_txt--body
                 p.text-bold.mb-3.text-center <em>Push + Pull</em> sostenible
-                p <em>Push + Pull</em> sostenible	Indicado para empresas de cosmética natural, combinando inventario básico ecoamigable con pedidos personalizados, lo que permite equilibrar disponibilidad de productos con reducción de desperdicios y uso eficiente de insumos naturales.
+                p Indicado para empresas de cosmética natural, combinando inventario básico ecoamigable con pedidos personalizados, lo que permite equilibrar disponibilidad de productos con reducción de desperdicios y uso eficiente de insumos naturales.
 
 </template>
 

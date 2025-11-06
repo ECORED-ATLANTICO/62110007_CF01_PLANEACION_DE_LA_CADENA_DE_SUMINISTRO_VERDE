@@ -287,7 +287,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA1_62110007_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -403,12 +403,12 @@ export default {
         'Actividades económicas que respetan el ambiente y contribuyen al desarrollo social.',
     },
     {
-      termino: 'Sistema pull',
+      termino: 'Sistema <em>pull</em>',
       significado:
         'Producción y distribución que responde a la demanda real, evitando excesos y residuos.',
     },
     {
-      termino: 'Sistema push',
+      termino: 'Sistema <em>push</em>',
       significado:
         'Producción basada en estimaciones de demanda, organizada anticipadamente.',
     },

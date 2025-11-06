@@ -34,13 +34,15 @@
       .cajon.bg-color-terciario-t5.p-4.mb-4
         p.mb-0 
           b Ejemplo: 
-          | una empresa textil implementa una cadena de suministro verde al utilizar algodón orgánico certificado, reducir el consumo de agua en los procesos de teñido y gestionar eficientemente los residuos textiles.
+          | una empresa que abastece sus materias primas de proveedores locales con prácticas agroecológicas, reduciendo emisiones de transporte y apoyando la economía regional.
 
       separador
 
     //- titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_4_2 4.2 Niveles
+
+    p.mb-5 La sostenibilidad en la cadena de suministro se analiza desde distintos niveles de decisión: 
 
     .row.justify-content-center.mb-5
         .col-xl-4.col-lg-4.col-12.mb-4.mb-xl-0.col-md-8
@@ -89,7 +91,7 @@
       .titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2#t_4_3 4.3 Actividades
 
-      p.mb-5 La sostenibilidad en la cadena de suministro se analiza desde distintos niveles de decisión:
+      p.mb-5 Las actividades sostenibles dentro de una cadena de suministro se agrupan en cinco grandes áreas:
 
       //- Col3 y Col9
       .container.mb-5
@@ -196,7 +198,7 @@
             img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img08.png', alt='Imagen Decorativa')
         .col-12.col-xl-8.mb-4.mb-lg-0
           p 
-            b vLos procesos sostenibles se pueden organizar según distintos criterios para facilitar su análisis y gestión:
+            b Los procesos sostenibles se pueden organizar según distintos criterios para facilitar su análisis y gestión:
           TabsA.color-terciario
             .tarjeta.p-3.px-4(titulo="Por tipo de sostenibilidad").bg-color-terciario-t5
               img.mb-4(src='@/assets/curso/temas/tema4/img09.png', alt='Imagen Decorativa')
@@ -243,7 +245,7 @@
                     img(src='@/assets/curso/temas/tema4/img20.png' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
                 .text-center
                   H5.bg-color-secundario.py-1 Por función logistica
-                  p Se relacionan con las etapas del proceso: abastecimiento, producción, almacenamiento, transporte, distribución y servicio posventa, asegurando sostenibilidad en toda la cadena.
+                  p considera todas las etapas del proceso logístico: abastecimiento, producción, almacenamiento, transporte, distribución y servicio posventa.
           .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0
               .tarjeta.shadow.p-4.bg-white.h-100
                 .row.justify-content-center.mb-3
@@ -251,7 +253,7 @@
                     img(src='@/assets/curso/temas/tema4/img21.png' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
                 .text-center
                   H5.bg-color-secundario.py-1 Por origen de la iniciativa
-                  p Se clasifican según su impulso: internas, cuando surgen de la empresa, o externas, cuando provienen de regulaciones, clientes o demandas del mercado global.
+                  p distingue entre iniciativas internas impulsadas por la empresa y externas derivadas de regulaciones o exigencias del mercado.
           .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0
               .tarjeta.shadow.p-4.bg-white.h-100
                 .row.justify-content-center.mb-3
@@ -259,7 +261,7 @@
                     img(src='@/assets/curso/temas/tema4/img22.png' alt='Imagen Decorativa').w-auto.mx-auto.h-120.mb-2
                 .text-center
                   H5.bg-color-secundario.py-1 Por tipo de tecnología
-                  p Se diferencian por el nivel de avance tecnológico: tradicional, digital, automatizada e inteligente, integrando herramientas como sensores IoT para monitorear condiciones en tiempo real.
+                  p clasifica según el nivel tecnológico aplicado: tradicional, digital, automatizada o inteligente con integración de sistemas avanzados.
           
         
         
