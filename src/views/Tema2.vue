@@ -166,6 +166,7 @@
 
             .row(numero="2" titulo="Selección de materiales")
               p.mb-0 Prioriza materias primas recicladas, renovables o de origen local para minimizar impactos ambientales. 
+              p
                 b Ejemplo: 
                 | uso de cartón reciclado en empaques.
             .row(numero="3" titulo="Producción limpia")
@@ -185,6 +186,7 @@
                 | agrupar pedidos y utilizar empaques más ligeros.
             .row(numero="6" titulo="Mejora continua")
               p.mb-0 Evalúa el desempeño ambiental de los procesos y aplica acciones correctivas para su optimización. 
+              p.mb-0 
                 b Ejemplo: 
                 | auditorías anuales de sostenibilidad y ajustes en procesos.
 

@@ -89,7 +89,7 @@
       .col-12.col-lg-10.mx-auto
         .crd.crd--avatarHorizontal.tarjeta
           .row.align-items-center
-            .col-auto
+            .col-auto.mb-4.mb-lg-0
               figure
                 img(src="@/assets/curso/temas/tema5/img09.png", alt="alt")
             .col

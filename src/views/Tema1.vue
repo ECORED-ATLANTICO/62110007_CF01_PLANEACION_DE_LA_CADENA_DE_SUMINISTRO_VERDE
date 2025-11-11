@@ -134,7 +134,8 @@
                   figure
                     img(src='@/assets/curso/temas/tema1/img08.svg', alt='Imagen decorativa')
 
-
+    separador
+    
     //- Titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_3 1.3 Características
