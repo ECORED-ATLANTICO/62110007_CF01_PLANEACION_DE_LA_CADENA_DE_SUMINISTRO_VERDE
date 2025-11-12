@@ -93,9 +93,7 @@
               figure
                 img(src="@/assets/curso/temas/tema5/img09.png", alt="alt")
             .col
-              h4.mb-0.py-4 En conjunto, las prioridades competitivas sostenibles permiten a las empresas integrar eficiencia, calidad, adaptabilidad e innovación, creando valor económico y ambiental de manera simultánea. Al gestionar de forma equilibrada el costo, tiempo, calidad, flexibilidad e innovación, las organizaciones pueden posicionarse de manera diferenciada en el mercado, responder a las expectativas de clientes conscientes y contribuir al desarrollo sostenible, garantizando que su desempeño sea rentable, responsable y resiliente frente a los desafíos futuros. 
-
-
+              p.mb-0.py-4.fontsize-1 En conjunto, las prioridades competitivas sostenibles permiten a las empresas integrar eficiencia, calidad, adaptabilidad e innovación, creando valor económico y ambiental de manera simultánea. Al gestionar de forma equilibrada el costo, tiempo, calidad, flexibilidad e innovación, las organizaciones pueden posicionarse de manera diferenciada en el mercado, responder a las expectativas de clientes conscientes y contribuir al desarrollo sostenible, garantizando que su desempeño sea rentable, responsable y resiliente frente a los desafíos futuros. 
 
 
 

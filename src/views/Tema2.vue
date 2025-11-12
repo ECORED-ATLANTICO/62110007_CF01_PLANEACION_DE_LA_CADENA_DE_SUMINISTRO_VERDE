@@ -43,8 +43,8 @@
             h5 Figura 1. 
               span Beneficios del diseño ecológico
           figure.mb-4
-            img(src='@/assets/curso/temas/tema2/img03.svg', alt='---').mx-auto.d-none.d-md-block
-            img(src='@/assets/curso/temas/tema2/img03m.svg', alt='---').mx-auto.d-block.d-md-none.px-5
+            img(src='@/assets/curso/temas/tema2/img03.svg', alt='La figura describe las herramientas de diagnóstico para la sostenibilidad, DOFA verde, benchmarking sostenible, Análisis de Ciclo de Vida, huella de carbono y balanced scorecard verde, destacando su función en la identificación de oportunidades de mejora y en la toma de decisiones.').mx-auto.d-none.d-md-block
+            img(src='@/assets/curso/temas/tema2/img03m.svg', alt='La figura describe las herramientas de diagnóstico para la sostenibilidad, DOFA verde, benchmarking sostenible, Análisis de Ciclo de Vida, huella de carbono y balanced scorecard verde, destacando su función en la identificación de oportunidades de mejora y en la toma de decisiones.').mx-auto.d-block.d-md-none.px-5
 
           figcaption 
             b Fuente: 
@@ -220,7 +220,7 @@
               .col-10
                 p.mb-0 
                  b Selección de materiales: 
-                 | reduce impacto desde el inicio.
+                 | elige insumos verdes.
           .tarjeta.color-acento-botones.p-2.px-3(x="39%" y="77.2%" numero="03")
             .row.align-items-center
               .col-2

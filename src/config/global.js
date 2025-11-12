@@ -230,17 +230,17 @@ export default {
         subMenu: [
           {
             numero: '7.1',
-            titulo: 'Concepto',
+            titulo: 'Costo',
             hash: 't_7_1',
           },
           {
             numero: '7.2',
-            titulo: 'Diferencias',
+            titulo: 'Tiempo',
             hash: 't_7_2',
           },
           {
             numero: '7.3',
-            titulo: 'Aplicabilidad',
+            titulo: 'Calidad',
             hash: 't_7_3',
           },
           {

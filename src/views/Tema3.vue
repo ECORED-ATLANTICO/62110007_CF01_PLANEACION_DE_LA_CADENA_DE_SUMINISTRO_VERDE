@@ -216,7 +216,7 @@
                           img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img19.png', alt='Imagen Decorativa')
                       .col-12.col-lg-8
                         h5.mb-4 Transporte limpio
-                        p Impulsa el uso de medios y rutas sostenibles, como el transporte multimodal o eléctrico, apoyándose en herramientas de ruteo dinámico y software GIS para reducir el impacto ambiental.
+                        p Impulsa el uso de medios y rutas sostenibles, como el transporte multimodal o eléctrico, apoyándose en herramientas de ruteo dinámico y <em>software</em> GIS para reducir el impacto ambiental.
 
 
                   .tarjeta
