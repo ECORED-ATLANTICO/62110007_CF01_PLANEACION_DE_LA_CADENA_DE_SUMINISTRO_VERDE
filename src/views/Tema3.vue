@@ -43,13 +43,88 @@
         b Ejemplo: 
         | una empresa textil implementa una cadena de suministro verde al utilizar algodón orgánico certificado, reducir el consumo de agua en los procesos de teñido y gestionar eficientemente los residuos textiles.
 
-    separador
 
+    separador 
+
+    //- titulo
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2#t_3_2 3.2 Gestión
+    
+    .bg-full-width.bg01
+      //- banner con tarjeta
+      .row.justify-content-center.align-items-center.mb-4.tarjeta(data-aos="fade-left")
+        .col-lg-12.mb-2
+          div.tarjeta-horz.mb-3
+            img(src='@/assets/curso/temas/tema3/img28.png', alt='Imagen decorativa')
+            div.texto-tarjeta.bg-white
+                p.mb-0 La gestión de la cadena de suministro verde se centra en coordinar y optimizar las actividades logísticas incorporando criterios ambientales, sociales y económicos que permitan reducir impactos negativos y fortalecer la eficiencia. Este enfoque integra prácticas responsables en cada etapa del flujo de materiales e información, asegurando el cumplimiento normativo, la trazabilidad y la mejora continua del desempeño sostenible.
+    
+    
+      //- Col3 y Col9
+      .container.mb-5
+        .row.align-items-center(data-aos="fade-left")
+          .col-12.col-lg-10.mb-4.mb-lg-0.justify-content-center.mx-auto
+            .tarjeta.p-4.bg02
+              .tarjeta--blanca.p-4
+                SlyderA(tipo="b")
+                  .tarjeta
+                    .row.align-items-center
+                      .col-12.col-md-8.col-lg-4.mx-auto
+                        figure
+                          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img29.png', alt='Imagen Decorativa')
+                      .col-12.col-lg-8
+                        h5.mb-4 Planificación sostenible
+                        p Define objetivos, metas e indicadores ambientales, sociales y económicos para orientar la toma de decisiones.
+
+                  .tarjeta
+                    .row.align-items-center
+                      .col-12.col-md-8.col-lg-4.mx-auto
+                        figure
+                          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img30.png', alt='Imagen Decorativa')
+                      .col-12.col-lg-8
+                        h5.mb-4 Selección de proveedores responsables
+                        p Evalúa prácticas ambientales, certificaciones y desempeño social para garantizar abastecimiento sostenible.
+      
+                  .tarjeta
+                    .row.align-items-center
+                      .col-12.col-md-8.col-lg-4.mx-auto
+                        figure
+                          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img31.png', alt='Imagen Decorativa')
+                      .col-12.col-lg-8
+                        h5.mb-4 Optimización de procesos productivos
+                        p Incorpora tecnologías limpias, eficiencia energética y reducción de residuos en la producción.
+                  .tarjeta
+                    .row.align-items-center
+                      .col-12.col-md-8.col-lg-4.mx-auto
+                        figure
+                          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img32.png', alt='Imagen Decorativa')
+                      .col-12.col-lg-8
+                        h5.mb-4 Gestión de inventarios verdes
+                        p Prioriza el uso eficiente de recursos, evita sobreproducción y reduce pérdidas asociadas a productos no utilizados.
+                  .tarjeta
+                    .row.align-items-center
+                      .col-12.col-md-8.col-lg-4.mx-auto
+                        figure
+                          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img33.png', alt='Imagen Decorativa')
+                      .col-12.col-lg-8
+                        h5.mb-4 Transporte y distribución sostenible
+                        p Implementa rutas optimizadas, vehículos de bajas emisiones y empaques responsables.
+                  .tarjeta
+                    .row.align-items-center
+                      .col-12.col-md-8.col-lg-4.mx-auto
+                        figure
+                          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img34.png', alt='Imagen Decorativa')
+                      .col-12.col-lg-8
+                        h5.mb-4 Economía circular
+                        p Promueve reutilización, reciclaje y recuperación de materiales para cerrar ciclos y disminuir residuos.
+
+    
+      separador
 
     .bg-full-width.bg01
       //- titulo
       .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2#t_3_2 3.2 Tipos de eslabones
+        h2#t_3_3 3.3 Tipos de eslabones
 
       p.mb-5 Los eslabones en una cadena de suministro verde representan las distintas etapas de la cadena logística donde se pueden aplicar prácticas sostenibles. Cada una de estas etapas tiene su propia lógica, operaciones y oportunidades de mejora ambiental.
 
@@ -103,7 +178,7 @@
 
     //- titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_3_3 3.3 Actores
+      h2#t_3_4 3.4 Actores
 
     //- banner con tarjeta
     .row.justify-content-center.align-items-center.mb-4.tarjeta(data-aos="fade-left")
@@ -139,7 +214,7 @@
     .bg-full-width.bg01
       //-titulo
       .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2#t_3_4 3.4 Categorías
+        h2#t_3_5 3.5 Categorías
 
       //- Col9 (Slider) y Col3
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -167,7 +242,7 @@
     .bg-full-width.bg01
       //-titulo
       .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2#t_3_5 3.5 Criterios
+        h2#t_3_6 3.6 Criterios
 
       p.mb-5 Estos criterios orientan las decisiones dentro de la cadena de suministro verde, asegurando que cada proceso contribuya positivamente al ambiente.
 
@@ -242,7 +317,7 @@
     .bg-full-width.bg01
       //-titulo
       .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2#t_3_6 3.6 Costos
+        h2#t_3_7 3.7 Costos
 
       //- Col3 y Col9
       .container.mb-5
@@ -293,12 +368,6 @@
               H5.bg-color-secundario.py-1 Costos de oportunidad
               p Beneficios perdidos por no aplicar prácticas verdes; invertir en sostenibilidad genera ventajas competitivas.
                   
-
-
-
-
-
-
 
 </template>
 

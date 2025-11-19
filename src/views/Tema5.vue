@@ -135,7 +135,7 @@
     
     .bg-full-width.bg01
       //- Col3 y Col9
-      .container.mb-3
+      .container.mb-5
         .row.align-items-center(data-aos="fade-left")
           .col-12.col-md-12.col-lg-9.mb-4.mb-lg-0
             //- Acordion
@@ -154,7 +154,7 @@
               img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema5/img08.png', alt='Imagen Decorativa')
     
 
-    .row
+    .row.mb-5
       .col-12.col-lg-10.mx-auto
         .crd.crd--avatarHorizontal.tarjeta
           .row.align-items-center
@@ -162,21 +162,27 @@
               figure
                 img(src="@/assets/curso/temas/tema5/img09.png", alt="alt")
             .col
-              h3.mb-0 Estos modelos no son excluyentes entre sí y, en muchos casos, pueden ser combinados de manera estratégica dependiendo del tipo de organización, su tamaño, sector y objetivos sostenibles.
+              h4.mb-0 Estos modelos no son excluyentes entre sí y, en muchos casos, pueden ser combinados de manera estratégica dependiendo del tipo de organización, su tamaño, sector y objetivos sostenibles.
 
 
+    //- titulo
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2#t_5_5 5.5 Responsabilidad social
 
 
+    //- Cajon
+    .cajon.bg-color-terciario-t5.p-4.mb-5
+      p.mb-0 
+        b La RSE se convierte en un eje fundamental para la competitividad responsable, pues orienta a las empresas a actuar con transparencia, cumplir estándares internacionales, proteger los derechos laborales, minimizar su huella ecológica y contribuir al desarrollo de las comunidades donde operan. Además, impulsa la innovación, mejora la reputación organizacional y construye confianza con clientes, proveedores, colaboradores y autoridades, generando valor compartido a lo largo de toda la cadena de suministro.
 
-
-
-
-
-
-
-
-
-
+    //- Col3 y Col9
+    .container.mb-3
+      .row.align-items-center(data-aos="fade-left")
+        .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto
+          figure
+            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema5/img10.png', alt='Imagen Decorativa')
+        .col-12.col-md-12.col-lg-9.mb-4.mb-lg-0
+          p.mb-0 La responsabilidad social empresarial (RSE) es un enfoque de gestión que integra voluntariamente consideraciones sociales, ambientales y éticas en las operaciones de la organización y en la relación con sus grupos de interés. En el contexto de la cadena de valor sostenible, la RSE fortalece la coherencia entre las actividades empresariales y los principios del desarrollo sostenible, promoviendo prácticas que generan bienestar colectivo y reducen los impactos negativos en el entorno.
 
 </template>
 

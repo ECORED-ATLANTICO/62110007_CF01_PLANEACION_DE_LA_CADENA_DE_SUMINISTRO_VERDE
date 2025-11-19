@@ -134,11 +134,89 @@
                   figure
                     img(src='@/assets/curso/temas/tema1/img08.svg', alt='Imagen decorativa')
 
+
+    separador
+
+        
+    .bg-full-width.bg01
+      //- titulo
+      .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2#t_1_3 1.3 Ciclo
+
+      //- banner con tarjeta
+      .row.justify-content-center.align-items-center.mb-4.tarjeta(data-aos="fade-left")
+        .col-lg-12.mb-2
+          div.tarjeta-horz.mb-3
+            img(src='@/assets/curso/temas/tema1/img20.png', alt='Imagen decorativa')
+            div.texto-tarjeta.bg-white
+                p.mb-0 El ciclo de los productos y servicios verdes comprende las etapas que permiten evaluar su impacto ambiental desde la obtención de materias primas hasta su disposición final. Analizar estas fases facilita identificar oportunidades de mejora, optimizar recursos y aplicar principios de sostenibilidad y economía circular dentro de la cadena de suministro.
+
+      .row.justify-content-center
+        .col-12.col-lg-8
+          PasosA.color-acento-contenido.mb-5(tipo="n")(data-aos="fade-left")
+            .row
+              .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto.d-flex.align-items-center
+                figure
+                  img(src='@/assets/curso/temas/tema1/img21.svg', alt='Imagen decorativa').w-auto.mx-auto
+              .col-lg-9
+                h4 Selección de materias primas sostenibles	
+                p.mb-0 Se eligen insumos renovables, reciclados o de bajo impacto ambiental, reduciendo la extracción de recursos no renovables y promoviendo mercados responsables.
+
+            .row
+              .col-lg-9.order-2.order-lg-1
+                h4 Producción limpia	 
+                p.mb-0 Comprende procesos que minimizan el consumo de energía y agua, incorporan tecnologías eficientes y reducen residuos y emisiones durante la fabricación.
+              .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto.order-1.order-lg-2.d-flex.align-items-center
+                figure
+                  img(src='@/assets/curso/temas/tema1/img22.svg', alt='Imagen decorativa').w-auto.mx-auto
+              
+            .row
+              .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto.d-flex.align-items-center
+                figure
+                  img(src='@/assets/curso/temas/tema1/img23.svg', alt='Imagen decorativa').w-auto.mx-auto
+              .col-lg-9
+                h4 Distribución y comercialización verde
+                p.mb-0 Implica el uso de empaques sostenibles, rutas logísticas optimizadas y métodos de transporte con menores emisiones para reducir la huella de carbono.
+
+                
+            .row
+              .col-lg-9.order-2.order-lg-1
+                h4 Uso responsable
+                p.mb-0 El producto debe ofrecer eficiencia, durabilidad y seguridad durante su vida útil, promoviendo prácticas de consumo sostenible.
+              .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto.order-1.order-lg-2.d-flex.align-items-center
+                figure
+                  img(src='@/assets/curso/temas/tema1/img24.svg', alt='Imagen decorativa').w-auto.mx-auto
+              
+            .row
+              .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto.d-flex.align-items-center
+                figure
+                  img(src='@/assets/curso/temas/tema1/img25.svg', alt='Imagen decorativa').w-auto.mx-auto
+              .col-lg-9
+                h4 Reutilización y extensión de vida útil
+                p.mb-0 Fomenta el uso prolongado del producto o de sus componentes para evitar su desecho prematuro y reducir la generación de residuos.
+
+            .row
+              .col-lg-9.order-2.order-lg-1.text-left
+                h4 Reciclaje y valorización de materiales
+                p.mb-0 Los materiales recuperados se transforman e incorporan nuevamente a procesos productivos, apoyando la economía circular.
+              .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto.order-1.order-lg-2.d-flex.align-items-center
+                figure
+                  img(src='@/assets/curso/temas/tema1/img26.svg', alt='Imagen decorativa').w-auto.mx-auto
+            
+            .row
+              .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto.d-flex.align-items-center
+                figure
+                  img(src='@/assets/curso/temas/tema1/img27.svg', alt='Imagen decorativa').w-auto.mx-auto
+              .col-lg-9
+                h4 Disposición final controlada
+                p.mb-0 Los residuos no recuperables se gestionan adecuadamente mediante sistemas que minimizan impactos sobre el suelo, agua y aire.
+
+
     separador
     
     //- Titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_3 1.3 Características
+      h2#t_1_4 1.4 Características
 
 
     //- Col3 y Col9
@@ -171,7 +249,7 @@
 
     //- Titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_4 1.4 Especificaciones técnicas
+      h2#t_1_5 1.5 Especificaciones técnicas
 
     //- Col Imagen y Texto
     .bloque-texto-g.bg-color-terciario-t20.p-3.p-sm-4.p-md-5.mb-5
