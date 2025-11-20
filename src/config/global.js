@@ -51,7 +51,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Ciclos',
+            titulo: 'Ciclo',
             hash: 't_1_3',
           },
           {
