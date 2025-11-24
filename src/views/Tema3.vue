@@ -33,7 +33,7 @@
           .bloque-texto-b.color-terciario.w-92.mb-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h4.mb-0.ps-3 La cadena de suministro verde es un enfoque integral que incorpora criterios ambientales en todas las fases de la cadena de suministro, desde el diseño del producto hasta la gestión del ciclo de vida del mismo, pasando por la adquisición, producción, almacenamiento, transporte y distribución (Srivastava, 2007). 
+              p.mb-0.ps-3.text-bold La cadena de suministro verde es un enfoque integral que incorpora criterios ambientales en todas sus fases, desde el diseño del producto hasta la gestión del ciclo de vida del mismo, pasando por la adquisición, producción, almacenamiento, transporte y distribución (Srivastava, 2007). Busca minimizar la huella ecológica, optimizar el uso de recursos naturales y garantizar el cumplimiento de normativas ambientales sin comprometer la rentabilidad de la empresa.
               i.fas.fa-quote-right
           p Busca minimizar la huella ecológica, optimizar el uso de recursos naturales y garantizar el cumplimiento de normativas ambientales sin comprometer la rentabilidad de la empresa.
 

@@ -35,7 +35,7 @@
             .bloque-texto-b.color-terciario.w-92
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                h4.mb-0.ps-3 Una cadena de valor sostenible busca maximizar el valor generado a largo plazo para todos los actores involucrados, incluyendo la sociedad y el medio ambiente. (Porter & Kramer, 2011). 
+                p.mb-0.ps-3.text-bold Una cadena de valor sostenible busca maximizar el valor generado a largo plazo para todos los actores involucrados, incluyendo la sociedad y el medio ambiente. (Porter & Kramer, 2011). 
                 i.fas.fa-quote-right
 
     //- Cajon
@@ -64,7 +64,7 @@
                 p.mb-0 Bajo nivel de formalización y recursos limitados, operan en mercados locales. Implementan prácticas sostenibles básicas como reutilización de materiales, compras locales y empaques reciclables que reducen su impacto ambiental.
 
               .row(numero="2" titulo="Pequeña empresa")
-                p.mb-0 Posee una estructura simple y opera en entornos regionales con recursos técnicos moderados. Empieza a incorporar eficiencia energética, separación de residuos y alianzas con proveedores sostenibles para fortalecer su gestión ambiental.
+                p.mb-0 Posee una estructura simple y operan en entornos regionales y algunas nacionales, con recursos técnicos moderados. Empiezan a incorporar eficiencia energética, separación de residuos y alianzas con proveedores sostenibles para fortalecer su gestión ambiental.
 
               .row(numero="3" titulo="Mediana empresa")
                 p.mb-0 Cuenta con procesos más formales y capacidad de innovación. Integra certificaciones ambientales, sistemas de logística inversa, energías renovables y programas de responsabilidad social para optimizar su cadena de valor sostenible.
@@ -93,7 +93,7 @@
           .bloque-texto-b.color-terciario.w-92
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                h4.mb-0.ps-3 El análisis de la cadena de valor sostenible permite comprender cómo una empresa genera valor en cada etapa de sus operaciones, integrando criterios ambientales, sociales y económicos. Esta perspectiva propone una transformación tanto en las actividades primarias como en las de apoyo, buscando minimizar impactos negativos y maximizar beneficios integrales para el entorno y los grupos de interés (Porter & Kramer, 2011; López & Muñoz, 2021). 
+                p.mb-0.ps-3.text-bold El análisis de la cadena de valor sostenible permite comprender cómo una empresa genera valor en cada etapa de sus operaciones, integrando criterios ambientales, sociales y económicos. Esta perspectiva propone una transformación tanto en las actividades primarias como en las de apoyo, buscando minimizar impactos negativos y maximizar beneficios integrales para el entorno y los grupos de interés (Porter & Kramer, 2011; López & Muñoz, 2021). 
                 i.fas.fa-quote-right
 
     p.mb-4 A continuación, se presentan las principales actividades de la cadena de valor y su relación con la sostenibilidad:
@@ -162,21 +162,15 @@
               figure
                 img(src="@/assets/curso/temas/tema5/img09.png", alt="alt")
             .col
-              h4.mb-0 Estos modelos no son excluyentes entre sí y, en muchos casos, pueden ser combinados de manera estratégica dependiendo del tipo de organización, su tamaño, sector y objetivos sostenibles.
+              p.mb-0.text-bold Estos modelos no son excluyentes entre sí y, en muchos casos, pueden ser combinados de manera estratégica dependiendo del tipo de organización, su tamaño, sector y objetivos sostenibles.
 
 
     //- titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_5_5 5.5 Responsabilidad social
 
-
-    //- Cajon
-    .cajon.bg-color-terciario-t5.p-4.mb-5
-      p.mb-0 
-        b La RSE se convierte en un eje fundamental para la competitividad responsable, pues orienta a las empresas a actuar con transparencia, cumplir estándares internacionales, proteger los derechos laborales, minimizar su huella ecológica y contribuir al desarrollo de las comunidades donde operan. Además, impulsa la innovación, mejora la reputación organizacional y construye confianza con clientes, proveedores, colaboradores y autoridades, generando valor compartido a lo largo de toda la cadena de suministro.
-
     //- Col3 y Col9
-    .container.mb-3
+    .container.mb-5
       .row.align-items-center(data-aos="fade-left")
         .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto
           figure
@@ -184,6 +178,11 @@
         .col-12.col-md-12.col-lg-9.mb-4.mb-lg-0
           p.mb-0 La responsabilidad social empresarial (RSE) es un enfoque de gestión que integra voluntariamente consideraciones sociales, ambientales y éticas en las operaciones de la organización y en la relación con sus grupos de interés. En el contexto de la cadena de valor sostenible, la RSE fortalece la coherencia entre las actividades empresariales y los principios del desarrollo sostenible, promoviendo prácticas que generan bienestar colectivo y reducen los impactos negativos en el entorno.
 
+    //- Cajon
+    .cajon.bg-color-terciario-t5.p-4.mb-3
+      p.mb-0 La RSE se convierte en un eje fundamental para la competitividad responsable, pues orienta a las empresas a actuar con transparencia, cumplir estándares internacionales, proteger los derechos laborales, minimizar su huella ecológica y contribuir al desarrollo de las comunidades donde operan. Además, impulsa la innovación, mejora la reputación organizacional y construye confianza con clientes, proveedores, colaboradores y autoridades, generando valor compartido a lo largo de toda la cadena de suministro.
+
+    
 </template>
 
 <script>

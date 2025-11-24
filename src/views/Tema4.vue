@@ -197,8 +197,7 @@
           figure
             img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img08.png', alt='Imagen Decorativa')
         .col-12.col-xl-8.mb-4.mb-lg-0
-          p 
-            b Los procesos sostenibles se pueden organizar según distintos criterios para facilitar su análisis y gestión:
+          p Los procesos sostenibles se pueden organizar según distintos criterios para facilitar su análisis y gestión:
           TabsA.color-terciario
             .tarjeta.p-3.px-4(titulo="Por tipo de sostenibilidad").bg-color-terciario-t5
               img.mb-4(src='@/assets/curso/temas/tema4/img09.png', alt='Imagen Decorativa')

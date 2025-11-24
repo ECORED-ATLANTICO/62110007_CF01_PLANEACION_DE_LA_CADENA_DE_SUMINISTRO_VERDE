@@ -33,7 +33,7 @@
             .bloque-texto-b.color-terciario
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                h4.mb-0.ps-3 Según la Organización de las Naciones Unidas para el Desarrollo Industrial (ONUDI, 2020), estos procesos implican el uso eficiente de los recursos, la reducción de residuos y emisiones contaminantes, y la mejora continua del desempeño ambiental sin comprometer la rentabilidad empresarial.
+                p.mb-0.ps-3.text-bold Según la Organización de las Naciones Unidas para el Desarrollo Industrial (ONUDI, 2020), estos procesos implican el uso eficiente de los recursos, la reducción de residuos y emisiones contaminantes, y la mejora continua del desempeño ambiental sin comprometer la rentabilidad empresarial.
                 i.fas.fa-quote-right
     
     .bg-full-width.bg01

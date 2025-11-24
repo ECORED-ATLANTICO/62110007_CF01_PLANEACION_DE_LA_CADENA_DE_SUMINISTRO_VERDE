@@ -33,7 +33,7 @@
             .bloque-texto-b.color-terciario.w-92
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                h4.mb-0.ps-3 Según el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA, 2022), un producto verde es aquel que “usa menos recursos naturales, produce menos residuos y tiene una menor huella ambiental durante su vida útil”.
+                p.mb-0.ps-3.text-bold Según el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA, 2022), un producto verde es aquel que “usa menos recursos naturales, produce menos residuos y tiene una menor huella ambiental durante su vida útil”.
                 i.fas.fa-quote-right
     
     // Cajon
@@ -78,7 +78,7 @@
               .row.align-items-center.h-100
                 .col-12.col-xl-8.order-2.order-lg-1
                   h4.mb-4 Biodegradables  
-                  p Productos que se descomponen naturalmete sin afectar los ecosistemas, reduciendo la contaminación y la acumulación de residuos. 
+                  p Productos que se descomponen naturalmente sin afectar los ecosistemas, reduciendo la contaminación y la acumulación de residuos. 
                   p 
                     b Ejemplos: 
                     | cubiertos de almidón de maíz, bolsas de papel, empaques hechos de cáscara de plátano y platos de hoja de palma.
